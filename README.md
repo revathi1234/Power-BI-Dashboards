@@ -1,11 +1,11 @@
 
-
 # Project 1 Proposal: E-commerce Online Store Performance Analysis
 
 ## Objective:
 The primary objective of this project is to conduct an in-depth analysis of the e-commerce online store's performance using data extracted from Power BI dashboards. The analysis will aim to derive actionable insights to enhance customer experience, optimize sales strategies, and improve overall business performance.
 
 ### Project Outline:
+
 #### 1. Data Collection and Cleaning:
 Extract data from the Power BI dashboards, ensuring data integrity and consistency.
 Perform data cleaning tasks such as handling missing values, standardizing data formats, and removing duplicates.
